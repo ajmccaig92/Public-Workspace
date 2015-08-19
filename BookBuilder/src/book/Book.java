@@ -50,18 +50,18 @@ public class Book {
 	} // end class CompareTitle
 
 	public static class CompareAuthor implements Comparator<Book> {
-		// TODO Your class that implements the Comparator interface will implement compare() using sAuthor
+		// class that implements the Comparator interface will implement compare() using sAuthor
 	} // end class CompareAuthor
 
 	public static class ComparePages implements Comparator<Book> {
-		// TODO Your class that implements the Comparator interface will implement compare() using nPages
+		// class that implements the Comparator interface will implement compare() using nPages
 	} // end class ComparePages
 
 	public static class CompareISBN implements Comparator<Book> {
-		// TODO Your class that implements the Comparator interface will implement compare() using lISBN
+		// class that implements the Comparator interface will implement compare() using lISBN
 	} // end class CompareISBN
 
 	public static class ComparePrice implements Comparator<Book> {
-		// TODO Your class that implements the Comparator interface will implement compare() using dPrice
+		// class that implements the Comparator interface will implement compare() using dPrice
 	} // end class ComparePrice
 } // end class Book
